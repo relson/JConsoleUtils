@@ -2,7 +2,7 @@ package info.relson.lib.console.util;
 
 
 /**
-* Classe Console com operações no Modo ANSI
+* Classe Console com operacoes no Modo ANSI
 * @author bach
 * @see http://www.vivaolinux.com.br/~bach
 * @version 1.0.001   
@@ -11,7 +11,7 @@ public class JConsoleUtil {
   
    /**
     * Imprime uma mensagens coloridas
-    * @param mensagem Mensagem a ser mostrada na saída padrão
+    * @param mensagem Mensagem a ser mostrada na saida padrao
     * @param listArgs Lista de argumentos como Cor do Fundo...
     */  
    public static void printc(String mensagem, String... listArgs)
@@ -58,7 +58,7 @@ public class JConsoleUtil {
    }
   
    /**
-    * Método main para testar todas as funções
+    * Metodo main para testar todas as funcoes
     * @param args
     */
    public static void main(String[] args) {
