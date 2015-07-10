@@ -5,6 +5,7 @@ package info.relson.lib.console.util;
 * Classe Console com operacoes no Modo ANSI
 * @author bach
 * @see http://www.vivaolinux.com.br/~bach
+* @see http://www.vivaolinux.com.br/artigo/Programando-em-Java-para-Console/
 * @version 1.0.001   
 */
 public class JConsoleUtil {
