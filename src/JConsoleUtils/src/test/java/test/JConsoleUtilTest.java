@@ -1,10 +1,12 @@
-package test
+package test;
 
 import static org.junit.Assert.assertEquals;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
 import org.junit.Test;
+
+import info.relson.lib.console.util.JConsoleUtil;
 
 public class JConsoleUtilTest {
 
